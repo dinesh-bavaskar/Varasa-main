@@ -1,0 +1,20 @@
+# ===== Backend =====
+Backend/__pycache__/
+Backend/instance/
+Backend/uploads/
+Backend/*.db
+Backend/.env
+
+# ===== Frontend =====
+Frontend/node_modules/
+Frontend/build/
+Frontend/.env
+Frontend/src/.env
+Frontend/.vscode/
+
+# ===== General =====
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
